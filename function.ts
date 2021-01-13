@@ -1,3 +1,5 @@
+// import {bonus} from "./extendet";
+
 function fkt (zahl:number):Boolean{
     return zahl > 42
 }
@@ -51,6 +53,9 @@ console.log(my_apartment.methoge())
 var my_house:apartment = new apartment(2)
 my_apartment.width = 300
 console.log(my_house.methoge())
+
+
+
 
 
 
